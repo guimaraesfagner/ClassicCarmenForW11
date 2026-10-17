@@ -1,0 +1,6 @@
+DOSBox Staging 0.83.0 — Windows x86_64 portable
+Release oficial: https://github.com/dosbox-staging/dosbox-staging/releases/tag/v0.83.0
+Página oficial de downloads: https://www.dosbox-staging.org/download/windows/
+SHA-256 do ZIP oficial baixado: 725b915e325a6d410ce30a10989fd492fdad07f6611fff40ff77f160478810f4
+Código-fonte GPL da mesma versão incluído em SOURCE-v0.83.0.tar.gz.
+Consulte LICENSE.txt e doc/licenses/ na pasta dosbox-staging-v0.83.0.
