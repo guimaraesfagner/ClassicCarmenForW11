@@ -1,5 +1,9 @@
 # Classic Carmen for Windows 11
 
+<p align="center">
+  <img src="assets/carmen-title-screen.png" alt="Tela inicial de Where in the World Is Carmen Sandiego?" width="885" />
+</p>
+
 Este repositório reúne os arquivos de **Where in the World Is Carmen Sandiego?** que eu forneci e uma configuração portátil para iniciar o jogo em computadores com Windows 11 de 64 bits.
 
 ## Como jogar
